@@ -25,3 +25,5 @@ car1.drive(40)
 console.log(car1.tank)
 console.log(car1.odometr)
 car1.drive(15)
+
+
